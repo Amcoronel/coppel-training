@@ -1,0 +1,26 @@
+{
+  "name": "training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "Jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amcoronel/coppel-training.git"
+  },
+  "author": "Amedina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amcoronel/coppel-training/issues"
+  },
+  "homepage": "https://github.com/Amcoronel/coppel-training#readme",
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "jest": "^24.7.1"
+  },
+  "dependencies": {
+    "vuejs": "^3.0.1"
+  }
+}
